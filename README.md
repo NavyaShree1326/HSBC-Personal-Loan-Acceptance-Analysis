@@ -1,4 +1,3 @@
-# HSBC-Personal-Loan-Acceptance-Analysis
 # HSBC Personal Loan Acceptance Analysis & Dashboard
 
 ## Project Overview
@@ -66,5 +65,3 @@ The project was completed entirely in **Microsoft Excel** using data analysis, v
 # Project Outcome
 
 The analysis helped identify the strongest predictors of personal loan acceptance and provided data-driven recommendations to improve HSBC’s marketing strategy, campaign efficiency, and customer targeting.
-
-Several pivot tables later, banking analytics once again confirmed that targeting financially capable customers works better than emailing the entire population like a desperate festival flyer campaign.
